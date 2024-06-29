@@ -1,0 +1,43 @@
+{
+  "UUID": "au.id.hawkins.sd.spinclock",
+  "SDKVersion": 2,
+  "Author": "Justin Hawkins",
+  "CodePath": "spinclock",
+  "CodePathWin": "spinclock.exe",
+  "Description": "A spinning clock",
+  "Name": "SpinClock",
+  "Icon": "spinclock",
+  "DisableAutomaticStates": false,
+  "URL": "https://github.com/tardisx/streamdeck-plugin-examples/spinclock",
+  "Version": "1.0.0",
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "6.5"
+  },
+  "Category": "Clocks",
+  "CategoryIcon": "spinclock",
+  "Actions": [
+    {
+      "Icon": "spinclock",
+      "Name": "SpinClock!",
+      "States": [
+        {
+          "Image": ""
+        }
+      ],
+      "Controllers": ["Keypad"],
+
+      "Tooltip": "A clock that tells time by rotation",
+      "UUID": "au.id.hawkins.sd.spinclock.clock"
+    }
+  ]
+}
