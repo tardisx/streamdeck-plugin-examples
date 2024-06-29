@@ -24,6 +24,7 @@
     "MinimumVersion": "6.5"
   },
   "Category": "Clocks",
+  "CategoryIcon": "clock-category-icon",
   "Actions": [
     {
       "Icon": "spinclock-action-icon",
