@@ -6,7 +6,7 @@
   "CodePathWin": "spinclock.exe",
   "Description": "A spinning clock",
   "Name": "SpinClock",
-  "Icon": "spinclock",
+  "Icon": "spinclock-plugin-icon",
   "DisableAutomaticStates": false,
   "URL": "https://github.com/tardisx/streamdeck-plugin-examples/spinclock",
   "Version": "1.0.0",
@@ -24,14 +24,13 @@
     "MinimumVersion": "6.5"
   },
   "Category": "Clocks",
-  "CategoryIcon": "spinclock",
   "Actions": [
     {
-      "Icon": "spinclock",
-      "Name": "SpinClock!",
+      "Icon": "spinclock-action-icon",
+      "Name": "SpinClock",
       "States": [
         {
-          "Image": ""
+          "Image": "spinclock-state-0-icon"
         }
       ],
       "Controllers": ["Keypad"],
