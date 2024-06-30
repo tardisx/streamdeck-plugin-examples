@@ -5,6 +5,6 @@ This repo contains examples for using the Go
 
 ## SpinClock
 
-A minimalist clock.
+A minimalist clock. [Link](spinclock).
 
 ![Demo](spinclock/anim.gif)
