@@ -1,8 +1,10 @@
 # Example Stream Deck plugin - "spinclock"
 
-This plugin displays a minimalist clock - the number on the clock is the hour (24h time)
-and the rotation indicates the minute. With a little practice it should become easy to
-tell the time with some accuracy.
+![Demo](anim.gif)
+
+This plugin displays a minimalist clock - the number on the clock is the hour
+(24h time) and the rotation indicates the minute. With a little practice it
+should become easy to tell the time with some accuracy.
 
 Tapping on a clock changes its colour to a random colour.
 
